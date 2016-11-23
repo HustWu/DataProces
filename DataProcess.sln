@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataProcess", "DataProcess\DataProcess.vcxproj", "{858D0048-D5EE-4BEC-8765-1029AD5B5024}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unittest", "unittest\unittest.vcxproj", "{A21490E7-4EBB-4E72-BBD9-5D9D17E9B241}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858D0048-D5EE-4BEC-8765-1029AD5B5024}.Debug|Win32.ActiveCfg = Debug|Win32
+		{858D0048-D5EE-4BEC-8765-1029AD5B5024}.Debug|Win32.Build.0 = Debug|Win32
+		{858D0048-D5EE-4BEC-8765-1029AD5B5024}.Release|Win32.ActiveCfg = Release|Win32
+		{858D0048-D5EE-4BEC-8765-1029AD5B5024}.Release|Win32.Build.0 = Release|Win32
+		{A21490E7-4EBB-4E72-BBD9-5D9D17E9B241}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A21490E7-4EBB-4E72-BBD9-5D9D17E9B241}.Debug|Win32.Build.0 = Debug|Win32
+		{A21490E7-4EBB-4E72-BBD9-5D9D17E9B241}.Release|Win32.ActiveCfg = Release|Win32
+		{A21490E7-4EBB-4E72-BBD9-5D9D17E9B241}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
